@@ -1,4 +1,4 @@
-package sdf.day05;
+package sdf.day05.book;
 
 import java.io.*;
 import java.util.List;

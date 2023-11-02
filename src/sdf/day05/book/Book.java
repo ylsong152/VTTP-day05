@@ -1,4 +1,4 @@
-package sdf.day05;
+package sdf.day05.book;
 
 public class Book {
     private String title;
